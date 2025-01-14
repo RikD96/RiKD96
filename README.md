@@ -1,4 +1,4 @@
-# Olá! Eu sou o Henrique Paulo
+# Olá! Eu sou o Henrique Paulo 𓄿
 
 **`Desenvolvedor FullStack`**
 
@@ -94,6 +94,15 @@ Atualmente, sou pós-graduando no Programa de Pós-Graduação em Ciência, Inov
 
 <img 
     align="left" 
+    alt="R" 
+    title="R"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/rstudioide/75AADB" height="40" alt="rstudio logo"
+/>
+
+<img 
+    align="left" 
     alt="mysql" 
     title="mysql"
     width="30px" 
@@ -142,3 +151,16 @@ Atualmente, sou pós-graduando no Programa de Pós-Graduação em Ciência, Inov
   />
   
 </p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif?cid=ecf05e47mcynucasxm73kdlonxc3akbkp2biq8aopz0uuqqt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RikD96/count.svg?"  />
+</div>

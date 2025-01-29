@@ -2,8 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Bacharel em Biologia pela Universidade Federal do Acre e atualmente estou cursando bacharelado em Ciência da Computação pela Estácio. Durante minha graduação em Biologia, desenvolvi pesquisas em Ecologia Aquática, com foco na aplicação da linguagem R para análises de dados.
-Atualmente, sou pós-graduando no Programa de Pós-Graduação em Ciência, Inovação e Tecnologia para a Amazônia (PPGCITA). Minha experiência inclui o uso de linguagens de programação e o desenvolvimento de ferramentas computacionais para responder a perguntas científicas e abordar desafios biológicos.
+Bacharel em Biologia pela Universidade Federal do Acre e atualmente estou cursando bacharelado em Ciência da Computação pela Estácio. Durante minha graduação em Biologia, desenvolvi pesquisas em Ecologia Aquática, com foco na aplicação da linguagem R para análises de dados. Minha experiência inclui o uso de linguagens de programação e o desenvolvimento de ferramentas computacionais para responder a perguntas científicas e abordar desafios biológicos.
 
 ### 🤖 Linguagens e Tecnologias
 
